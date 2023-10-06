@@ -15,11 +15,11 @@ This competition in 2023 saw participation from our students in Women in Tech fr
 
 ## Team Members (Alphabetical Order)
 
-- Adelaide Berry
-- Chloe Clemens
-- Brooke Monson
-- Hannah Whiting
-- Morgan Phillips
+- [Adelaide Berry](https://www.linkedin.com/in/adelaideberry/)
+- [Chloe Clemens](https://www.linkedin.com/in/chloe-clemens/)
+- [Brooke Monson](https://www.linkedin.com/in/brooke-monson-484527122/)
+- [Hannah Whiting](https://www.linkedin.com/in/hannah-whiting-/)
+- [Morgan Phillips](https://www.linkedin.com/in/morganphillips-/)
 
 ## Project Journey
 
