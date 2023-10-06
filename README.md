@@ -27,5 +27,5 @@ All the code is available in this repository. Check out our [Visualization Dashb
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the BSD 3-Clause License.
 
