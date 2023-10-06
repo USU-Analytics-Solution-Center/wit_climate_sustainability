@@ -1,2 +1,3 @@
-# wit_climate_sustainability
-Women in Data DATATHON 2023. Investments in climate services and early warning systems (USU-DAIS-WIT) 
+# Women in Data DATATHON 2023
+* Theme: Climate sustainability
+* Prompt: Investments in climate services and early warning systems (USU-DAIS-WIT) 
