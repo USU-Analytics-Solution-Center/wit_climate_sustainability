@@ -23,7 +23,7 @@ This competition in 2023 saw participation from our students in Women in Tech fr
 
 ## Project Journey
 
-Our quest began with an extensive review of 17 provided websites to identify relevant climate services and early warning systems projects. Initially, a manual analysis was performed on selected projects from each site, which laid a solid foundation for the subsequent automation phase. We chose a complex, dynamic website and employed Selenium for web scraping, which proved to be a robust proof of concept.
+Our quest began with an extensive review of 16 provided websites to identify relevant climate services and early warning systems projects. Initially, a manual analysis was performed on selected projects from each site, which laid a solid foundation for the subsequent automation phase. We chose a complex, dynamic website and employed Selenium for web scraping, which proved to be a robust proof of concept.
 
 With the acquired data, a detailed database was constructed, encapsulating vital project information and descriptions. In parallel, a list of project components was furnished, outlining the core elements of climate service and early warning systems projects.
 
