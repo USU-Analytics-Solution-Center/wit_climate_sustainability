@@ -11,7 +11,7 @@
 
 Assess the climate finance flows dedicated to climate services and early warning projects. There's a need to analyze adaptation-related projects financed by various major climate change funding sources.
 
-This competition in 2023 saw participation from our students in Women in Tech from the Department of Data Analytics and Information Systems (DAIS) at Utah State University, Huntsman School of Business. This project is mentored by Analytics Solution Center (ASC).
+This competition in 2023 saw participation from our students in Women in Tech from the Department of Data Analytics and Information Systems (DAIS) at Utah State University, Huntsman School of Business. This project is mentored by the Analytics Solution Center (ASC).
 
 ## Team Members (Alphabetical Order)
 
@@ -32,9 +32,8 @@ The challenge then was to map these components with the projects in our database
 These scores were normalized and employed as weights to discern the financial flow associated with each component and project. The finale of our journey was encapsulated in a comprehensive Tableau dashboard, offering a user-friendly interface to interact with and analyze our findings. This journey not only enhanced our technical skills but also fostered a collaborative spirit amongst team members, illuminating the path of climate sustainability through data-driven insights.
 
 
-## Visualization Dashboard
-
-All the code is available in this repository. Check out our [Visualization Dashboard](link-to-dashboard) for a user-friendly interface showcasing our findings.
+## Visualization Dashboard 
+All the code is available in this repository. Check out our [Visualization Dashboard](https://public.tableau.com/shared/YNFS44TNG?:display_count=n&:origin=viz_share_link) for a user-friendly interface showcasing our findings. 
 
 ## License
 
