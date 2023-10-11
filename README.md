@@ -33,7 +33,7 @@ These scores were normalized and employed as weights to discern the financial fl
 
 
 ## Visualization Dashboard 
-All the code is available in this repository. Check out our [Visualization Dashboard](https://public.tableau.com/shared/YNFS44TNG?:display_count=n&:origin=viz_share_link) for a user-friendly interface showcasing our findings. 
+All the code is available in this repository. Check out our [Visualization Dashboard](https://public.tableau.com/shared/YNFS44TNG?:display_count=n&:origin=viz_share_link) for a user-friendly interface showcasing our findings! 
 
 ## License
 
