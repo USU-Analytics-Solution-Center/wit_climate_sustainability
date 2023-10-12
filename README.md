@@ -36,7 +36,7 @@ These scores were normalized and employed as weights to discern the financial fl
 All the code is available in this repository. Check out our [Visualization Dashboard](https://public.tableau.com/shared/YNFS44TNG?:display_count=n&:origin=viz_share_link) for a user-friendly interface showcasing our findings! 
 
 ## Final Video Presentation
-Check out our [Final Video Presentation](https://youtu.be/f-nqPYzcPgQ) that goes over our whole process!
+Check out our [Final Video Presentation](https://youtu.be/f-nqPYzcPgQ?si=J54CJLCeXtHoL3FM) that goes over our whole process!
 
 ## License
 
