@@ -35,6 +35,9 @@ These scores were normalized and employed as weights to discern the financial fl
 ## Visualization Dashboard 
 All the code is available in this repository. Check out our [Visualization Dashboard](https://public.tableau.com/shared/YNFS44TNG?:display_count=n&:origin=viz_share_link) for a user-friendly interface showcasing our findings! 
 
+## Final Video Presentation
+Check out our [Final Video Presentation](https://youtu.be/6rtSXdMjmmE) that goes over our whole process!
+
 ## License
 
 This project is licensed under the BSD 3-Clause License.
